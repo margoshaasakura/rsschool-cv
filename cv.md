@@ -2,9 +2,9 @@ Magaret Kaziuchyts
 
 You can **contact** me via:
 
-- email: margaret.inspiring@gmail.com;
-- github: @margoshaasakura;
-- telegram: @margaretdez;
+- *email*: margaret.inspiring@gmail.com;
+- *github*: @margoshaasakura;
+- *telegram*: @margaretdez;
  
 Right now I am taking rs-school cource on javascript frontend development and studying design at university. I am a hard-working student aspiring to become a professional in web design and development. I try to learn from anywhere possible and creating products, that bring some value to users, is my passion. 
 
