@@ -1,1 +1,1 @@
- https://margoshaasakura.github.io/rsschool-cv/
+ https://margoshaasakura.github.io/rsschool-cv/cv
